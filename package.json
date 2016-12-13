@@ -1,0 +1,26 @@
+{
+  "name": "asm-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidestepism/asm-playground.git"
+  },
+  "keywords": [
+    "asm",
+    "assembly",
+    "gcc",
+    "c++",
+    "simd"
+  ],
+  "author": "Ryohei Fushimi <fushimi.ryohei@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidestepism/asm-playground/issues"
+  },
+  "homepage": "https://github.com/sidestepism/asm-playground#readme"
+}
